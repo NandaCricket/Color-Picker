@@ -1,0 +1,42 @@
+#container {
+  width: 270px;
+  height: 150px;
+  text-align: center;
+  padding-top: 20px;
+}
+#greenBtn {
+  width: 60px;
+  height: 60px;
+  background-color: green;
+  color: white;
+  border-radius: 10px;
+}
+#redBtn {
+  width: 60px;
+  height: 60px;
+  background-color: red;
+  color: white;
+  border-radius: 10px;
+}
+#blueBtn {
+  width: 60px;
+  height: 60px;
+  background-color: blue;
+  color: white;
+  border-radius: 10px;
+}
+#brownBtn {
+  width: 60px;
+  height: 60px;
+  background-color: brown;
+  color: white;
+  border-radius: 10px;
+}
+.colorPara {
+  background-color: black;
+  height: 40px;
+  text-align: center;
+  color: white;
+  padding-top: 10px;
+  font-family: "Open sans";
+}
